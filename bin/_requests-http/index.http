@@ -1,0 +1,11 @@
+### POST /login
+POST http://127.0.0.1:3000/login
+
+{
+    "username":"test3",
+    "password":"test38"
+}
+
+
+### GET /logout
+GET http://127.0.0.1:3000/logout
